@@ -1,5 +1,6 @@
 # bats-adjust-their-decision-process
-"Fruit-bats adjust their decision process"- main code
+"Fruit-bats adjust their decision process according to environmental dynamics" -main code
+Authors:  Goni Naamani, Nitzan Shahar, Yoav Ger and Yossi Yovel
 
 ## Setup:
 1. Clone or download the folders.
